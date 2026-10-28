@@ -30,7 +30,11 @@ Build your own independent electronics projects utilizing breadboards, benchtop 
 Taking advantage of free software, parent databases, and open-sources libraries helps you to learn professional standards without having to spend a lot of money. 
 Electrical design teams often rely on vendor schematics and open-source designs to help speed up development. As a student, you have access to student discounts and  UWB library access, which gives you access to IEEE Xplore, ANSI, and ISO standards, which will help you learn how real products are designed and regulated. Citing these official sources on your projects shows you are already thinking like an industry professional.  
 
-\*\*Figure 1: Anatomy and Architecture of an Open-Source Hardware Portfolio Repository\*\* ![Anatomy and Architecture of an Open-Source Hardware Portfolio Repository](https://raw.githubusercontent.com/EdanTsegaye/CSS301Process/main/hardware\_portfolio\_architecture.png) \*Source: Designed by author based on open-source hardware documentation standards.\*
+**Figure 1: Anatomy and Architecture of an Open-Source Hardware Portfolio Repository**
+
+![Anatomy and Architecture of an Open-Source Hardware Portfolio Repository](https://github.com/EdanTsegaye/CSS301Process/blob/main/ProcessFigure.png?raw=true)  
+*Based on open-source hardware documentation standards.*
+
 
 As a student, software like MATLAB, LTspice, and CAD design tools are free when you use your UW email. Research patents from local companies on Google Patents and find application notes from chip designers like Texas Instruments to see how engineers lay out their boards. Practice writing code in Python to automate things in CAD, and again share your code and files on platforms like GitHub.
 
@@ -46,7 +50,9 @@ Attend IEEE Seattle Section monthly meetings to meet practicing engineers, ask t
 
 ## References 
 S. Miller, Personal interview regarding electrical design engineering career preparation, Oct. 15, 2026
-U.S. Bureau of Labor Statistics, “Electrical and Electronics Engineers,” \*Occupational Outlook Handbook\*, Aug. 27, 2026. [Online]. Available: https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm. [Accessed Oct. 27, 2026]. 
+
+U.S. Bureau of Labor Statistics, “Electrical and Electronics Engineers,” Occupational Outlook Handbook, Aug. 27, 2026. [Online]. Available: https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm. [Accessed Oct. 27, 2026]. 
+
 Redline Group &amp; UVA Engineering Career Center, “Electrical Design Engineer Job Description, Responsibilities, and Skills,” 2026. [Online]. Available: https://www.redlinegroup.com/insight-details/electrical-design-engineer-job-description-responsibilities-and-skills. [Accessed Oct. 27, 2026].
 
 
