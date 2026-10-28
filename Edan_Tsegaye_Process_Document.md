@@ -49,7 +49,6 @@ Finding an electrical engineering job depends heavily on networking, clear commu
 Attend IEEE Seattle Section monthly meetings to meet practicing engineers, ask them about their daily work, and set up informational interviews over coffee or Zoom. Look into local electronics manufacturing services suppliers in Bothell for upcoming internship openings. Utilize Handshake to attend employer events targeting Northwest companies like Blue Origin, Gene, and Crane. Connect with former UW electrical engineering graduates on Husky Landing to get direct advice on your resume and interview preparation.
 
 ## References 
-S. Miller, Personal interview regarding electrical design engineering career preparation, Oct. 15, 2026
 
 U.S. Bureau of Labor Statistics, “Electrical and Electronics Engineers,” Occupational Outlook Handbook, Aug. 27, 2026. [Online]. Available: https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm. [Accessed Oct. 27, 2026]. 
 
