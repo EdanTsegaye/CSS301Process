@@ -26,11 +26,11 @@ Electrical design engineering requires hands-on experience building circuits and
 
 **Build your own independent electronics projects, from a breadboard prototype to a custom PCB design in KiCad.** Practice working under a budget by managing part numbers on websites like DigiKey, which builds experience navigating real-world supply chain practices. Document your progress, and note what went well and what challenged you. Because employers cannot judge a project they can't see, and utilizing open-source hardware treats a version-controlled repository as the standard way to share design files, parts lists, and photos.[^3]
 
-**When you finish a project, post your design and what you learned in a GitHub organized like Figure 1.** Give the schematics, PCB manufacturing files, circuit simulations, hardware testing results, and parts list and budget their own folders.
+**When you finish a project, post your design and what you learned in a GitHub repository organized like Figure 1.** Give the schematics, PCB manufacturing files, circuit simulations, hardware testing results, and parts list and budget their own folders.
 
 **Figure 1: Anatomy and Architecture of an Open-Source Hardware Portfolio Repository**
 
-![Anatomy and Architecture of an Open-Source Hardware Portfolio Repository](https://github.com/EdanTsegaye/CSS301Process/blob/main/ProcessFigure.png?raw=true)  
+![Anatomy and Architecture of an Open-Source Hardware Portfolio Repository](https://github.com/EdanTsegaye/CSS301Process/blob/main/ProcessFigure.jpg?raw=true)  
 *Source: Based on open-source hardware documentation standards.*[^3]
 
 
