@@ -77,4 +77,4 @@ He also said that people favor those they already know, because humans tend to m
 
 [^6]: University of Washington Information Technology, "MATLAB," *it.uw.edu*, n.d. [Online]. Available: https://it.uw.edu/uware/matlab/. [Accessed: Nov. 22, 2026].
 
-[Word count 695]
+[Word count 618]
